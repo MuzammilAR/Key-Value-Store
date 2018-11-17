@@ -1,3 +1,3 @@
-# Distributed Hash Table
+# Distributed Key-Value Store
 
 Language: Java
